@@ -12,5 +12,10 @@ public void deposite(int deposite) {
 public static void main(String[] args) {
 	AxisBank a = new AxisBank();
 	a.deposite(11000);
+	
+	System.out.println("welcome to java");
+	System.out.println("welcome to selenium");
+	
+	
 }
 }
